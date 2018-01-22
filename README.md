@@ -1,2 +1,2 @@
 # staticpool
-c
+c hash map
